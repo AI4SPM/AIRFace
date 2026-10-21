@@ -1,4 +1,4 @@
-# Anonymous Yet Identifiable: A Recoverable Face Anonymization Framework for Privacy-Preserving Authentication
+# A Recoverable Face Anonymization Framework for Privacy-Preserving Authentication
 
 
 ## Overview
